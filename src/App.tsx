@@ -322,7 +322,7 @@ function App() {
               </div>
               <div className="space-y-3 font-comic text-gray-700 leading-relaxed">
                 <p>Dil se apne dil ki baat sunlo...</p>
-                <p>il se mangte hai maafi maaf kar do...</p>
+                <p>Dill se mangte hai maafi maaf kar do...</p>
                 <p>Fir na karenge koi galti.</p>
                 <p>Bas aap bhoola ke ghusse ko pyar kar do.</p>
                 <p className="text-right font-bold mt-4">Yours sincerely,<br />Rishu</p>
