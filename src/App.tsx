@@ -325,7 +325,7 @@ function App() {
                 <p>il se mangte hai maafi maaf kar do...</p>
                 <p>Fir na karenge koi galti.</p>
                 <p>Bas aap bhoola ke ghusse ko pyar kar do.</p>
-                <p className="text-right font-bold mt-4">Yours sincerely,<br />Madam Ji</p>
+                <p className="text-right font-bold mt-4">Yours sincerely,<br />Rishu</p>
               </div>
             </div>
           </motion.div>
